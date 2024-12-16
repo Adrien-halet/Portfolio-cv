@@ -36,8 +36,9 @@ header {
     object-fit: cover;
 }
 
-.profile-info {
+.profile-info  {
     font-size: 16px;
+    margin: 30px;
 }
 
 /*          **************** Contenu des compétences / Éxperience *******************        */
@@ -103,6 +104,8 @@ footer {
     background: #333;
     color: #fff;
 }
+
+/*          **************** Responsive *******************        */
 
 @media (max-width: 768px) {
     .profile {
